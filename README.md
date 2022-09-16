@@ -1,6 +1,7 @@
-# Exquisite-corpse-VanDeVijvere-Beatrice
+.# Exquisite-corpse-VanDeVijvere-Beatrice
 
 
-|grhyf| zeg het maar|
-|dat is het niet|gttt|
+| grhyf | zeg het maar |
+| dat is het niet | gttt |
 
+nog een lijn bij
